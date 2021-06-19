@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  font-family: lato;
+  text-align: center;
+}
+#particles-js{
+  height: 100vh;
+  background-color: #262626;
+}
+
+
+
+
+	
